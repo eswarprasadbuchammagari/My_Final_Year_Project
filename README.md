@@ -1,4 +1,4 @@
-# Project: Text Classification using C-BiLSTM
+# Project: Text Classification using Convolutional Bi Directional Long Short Term Memory Model
 
 
 This repository contains the code and resources for a text classification project using C-BiLSTM (Convolutional Bidirectional Long Short-Term Memory) model.
